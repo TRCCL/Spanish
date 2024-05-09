@@ -19,7 +19,8 @@
    -   They spoke (Males) ```Ellos hablaron``` 
    -   They spoke (Females) ```Ellas hablaron``` 
 
-   Spanish is masculune default if there is at least 1 male in the group you use the masculune or use Nosotras for all females besically if you're male you will never say Nosotras
+<span style="color: rgb(0, 250, 0);">Spanish is masculune default if there is at least 1 male in the group you use the masculune or use Nosotras for all females besically if you're male you will never say Nosotras.</span>
+   
 
 # 3. **Present Progressive Tense ("ing") and Future Tense ("will") Verb Forms of "hablar" (to speak):**
    - Present Progressive:
@@ -274,3 +275,24 @@
  98.  Do you have any shortterm goals?``` ¿Tienes alguna meta a corto plazo? ```
  99.  What is your favorite childhood TV show?``` ¿Cuál es tu programa de televisión de la infancia favorito? ```
  100. What makes you feel alive? ```. ¿Qué te hace sentir vivo(a)? ```
+
+ 
+
+
+ # 11. Reading practice
+
+ ## Se espera un aumento en las temperaturas durante la próxima semana
+Las previsiones meteorológicas indican que se espera un aumento en las temperaturas en gran parte del país durante la próxima semana. Según el Servicio Meteorológico Nacional, se pronostican temperaturas superiores a lo normal para esta época del año, con máximas que podrían alcanzar los 30 grados Celsius en algunas regiones.
+
+Este aumento en las temperaturas ha generado preocupación entre las autoridades de salud y los servicios de emergencia, ya que podría aumentar el riesgo de golpes de calor y deshidratación, especialmente entre las poblaciones más vulnerables, como los niños pequeños y los adultos mayores.
+
+Ante esta situación, se recomienda a la población tomar precauciones adicionales para protegerse del calor, como mantenerse hidratado, evitar la exposición prolongada al sol durante las horas más calurosas del día y buscar lugares frescos y sombreados cuando sea posible.
+
+Además, se insta a la población a estar atenta a cualquier síntoma de malestar relacionado con el calor, como mareos, fatiga extrema o confusión, y buscar atención médica si es necesario.
+
+Las autoridades también recuerdan la importancia de cuidar a las mascotas durante los días calurosos, asegurándose de que tengan acceso a agua fresca y proporcionándoles refugio y sombra adecuados.
+
+Se espera que estas altas temperaturas persistan durante varios días, por lo que se recomienda a la población mantenerse informada a través de los pronósticos meteorológicos locales y seguir las recomendaciones de las autoridades.
+
+
+
